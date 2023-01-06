@@ -94,13 +94,11 @@ There is a lot of potential to do but in the future, deep learning based recomme
 
 # Recommendations
 
-- Collaborative Filtering Recommender Engine more effectively when it comes to recommend movies based on other users' preference but It doesn't solve the cold start problem. To help solve this problem we can use hybrid model of our naive recommendation engine and the SVD model.
-
-- The genres alone can be used to provide a reasonably good content based recommendation to new user but we can enrich this with directors or cast by obtaining more data.
+- Collaborative Filtering Recommender Engine more effectively when it comes to recommend movies based on other users' preference but It doesn't solve the cold start problem. To help solve this problem we can use hybrid model of our naive recommendation engine and the model based recommendation engine.
 
 - Most popular genres will be a relevant aspect to take into account when building the content based recommender.
 
-- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient since SVDpp algorithm is an extension of SVD that takes into account implicit ratings.
+- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient since SVDpp is an extension of SVD model which deals with both explicit feedback an implicit feedback
 
 
 # For More Information
