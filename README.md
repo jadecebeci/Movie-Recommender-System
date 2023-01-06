@@ -105,8 +105,17 @@ There is a lot of potential to do but in the future, deep learning based recomme
 
 For any additional questions, please contact Yesim Cebeci at ysm.cebeci@gmail.com or https://www.linkedin.com/in/yesim-cebeci/
 
+# Repository Structure
 
-
+    
+ ```
+├── images
+├── ml-latest-small
+├── the deliverables
+├── EDA_and_Data_Cleaning.ipynb
+├── Movie_Recommender_Modeling.ipynb
+└── README.md
+```
 
 
 
