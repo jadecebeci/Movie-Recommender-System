@@ -70,13 +70,11 @@ The main idea behind these methods is to use other users’ preferences and tast
 
 ### Collaborative Filtering Model Based on User Ratings
 
-In this section , i decided to apply Dimensionality Reduction technique to derive the tastes and preferences from the raw data, otherwise known as doing low-rank matrix factorization. Why reduce dimensions?
+#### Best Performing Model
 
-- I can discover hidden correlations / features in the raw data.
-- I can remove redundant and noisy features that are not useful.
-- I can interpret and visualize the data easier.
-- I can also access easier data storage and processing.
+<img align="center" width="900" height="400" src='images/Comparison of Models.png'>
 
+In this section, I choise RMSE value (Root Mean Squared Error) as our evaluation metrics . We got the best RMSE result with SVDpp. Since SVDpp takes longer time to train compared to the naive SVD.So, I chose to optimize the SVD model. After optimizing and predicting rating on model, I got 10 recommendations
 
 <img align="center" width="900" height="400" src='images/Top 10 Recommendations.png'>
 
@@ -93,6 +91,17 @@ I then progressed collaborative filtering based engines which try to find simila
 Finally, I made a recommendation engine which recommends 10 movies to specific user by using SVD model. And I added filtering options for genre and minimum number of ratings to make recommendations more accurate
 
 There is a lot of potential to do but in the future, deep learning based recommender system can be built to enhance the performance and provide better recommendations to user.
+
+# Recommendations
+
+- Collaborative Filtering Recommender Engine more effectively when it comes to recommend movies based on other users' preference but It doesn't solve the cold start problem. To help solve this problem we can use hybrid model of our naive recommendation engine and the SVD model.
+
+- The genres alone can be used to provide a reasonably good content based recommendation to new user but we can enrich this with directors or cast by obtaining more data.
+
+- Most popular genres will be a relevant aspect to take into account when building the content based recommender.
+
+- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient as using implicint feedback of users
+
 
 # For More Information
 
