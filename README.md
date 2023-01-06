@@ -108,7 +108,7 @@ For any additional questions, please contact Yesim Cebeci at ysm.cebeci@gmail.co
 # Repository Structure
 
     
- ```
+```
 ├── images
 ├── ml-latest-small
 ├── the deliverables
