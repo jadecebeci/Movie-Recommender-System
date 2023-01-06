@@ -100,7 +100,7 @@ There is a lot of potential to do but in the future, deep learning based recomme
 
 - Most popular genres will be a relevant aspect to take into account when building the content based recommender.
 
-- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient as using implicint feedback of users
+- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient since SVDpp algorithm is an extension of SVD that takes into account implicit ratings.
 
 
 # For More Information
