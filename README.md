@@ -103,7 +103,7 @@ There is a lot of potential to do but in the future, deep learning based recomme
 
 # For More Information
 
-For any additional questions, please contact Yesim Cebeci at ysm.cebeci@gmail.com or https://www.linkedin.com/in/yesim-cebeci/
+For any additional questions, please contact me at ysm.cebeci@gmail.com or https://www.linkedin.com/in/yesim-cebeci/
 
 # Repository Structure
 
