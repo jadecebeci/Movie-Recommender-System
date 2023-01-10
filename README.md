@@ -74,7 +74,12 @@ The main idea behind these methods is to use other users’ preferences and tast
 
 <img align="center" width="900" height="400" src='images/Comparison of Models.png'>
 
-In this section, I chose **RMSE (Root Mean Squared Error)** as our evaluation metrics . We got the best RMSE result with SVDpp. Since SVDpp takes longer time to train compared to the naive SVD.So, I chose to optimize the SVD model. After optimizing and predicting rating on model, I got 10 recommendations
+In this section, I chose **RMSE (Root Mean Squared Error)** as our evaluation metrics . We got the best RMSE result with SVDpp. Since SVDpp takes longer time to train compared to the naive SVD.So, I chose to optimize the SVD model.
+
+Finally, after optimizing the SVD model , I've gotten **0.8525** RMSE score .**That would mean the estimated ratings on average are about 0.8525 higher or lower than the actual ratings, on a 0 to 5 scale**
+
+
+After optimizing and predicting rating on model, I got 10 recommendations
 
 <img align="center" width="900" height="400" src='images/Top 10 Recommendations.png'>
 
