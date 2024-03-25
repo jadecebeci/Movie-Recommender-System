@@ -108,7 +108,7 @@ There is a lot of potential to do but in the future, deep learning based recomme
 
 # For More Information
 
-If you have any additional questions, feel free to contact me at ysm.cebeci@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yesim-cebeci/). Also, be sure to check out my [blogpost](https://medium.com/@ysm.cebeci/getting-started-with-recommender-systems-collobrative-filtering-e1fe9141c055) for more insights on building a personalized recommendation engine using collaborative filtering techniques.
+If you have any additional questions, feel free to contact me at ysm.cebeci@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jade-cebeci/). Also, be sure to check out my [blogpost](https://medium.com/@ysm.cebeci/getting-started-with-recommender-systems-collobrative-filtering-e1fe9141c055) for more insights on building a personalized recommendation engine using collaborative filtering techniques.
 
 
 # Repository Structure
