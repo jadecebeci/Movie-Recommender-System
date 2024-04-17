@@ -10,7 +10,7 @@ For the recommender system I will use Content-based and Model Based Collaborativ
 
 # Table of Content
 - [Business Understanding](https://github.com/jadecebeci/movie-recommender#business-understanding)
-- [Data Understanding][(https://github.com/jadecebeci/movie-recommender#data-understanding)](https://github.com/jadecebeci/Movie-Recommender-System/blob/main/README.md#data-understanding)
+- [Data Understanding](https://github.com/jadecebeci/movie-recommender#data-understanding)](https://github.com/jadecebeci/Movie-Recommender-System/blob/main/README.md#data-understanding)
 - [Data Analysis](https://github.com/jadecebeci/movie-recommender#sentiment-analysis)
 - [Recommendation Engine](https://github.com/jadecebeci/movie-recommender#recommendation-engine)
 - [Conclusion and Future Consideration](https://github.com/jadecebeci/movie-recommender#limitations-and-future-consideration)
