@@ -13,7 +13,7 @@ For the recommender system I will use Content-based and Model Based Collaborativ
 - [Data Understanding](#data-understanding)
 - [Data Analysis](#sentiment-analysis)
 - [Recommendation Engine](#recommendation-engine)
-- [Conclusion and Future Consideration](#limitations-and-future-consideration)
+- [Conclusion and Future Consideration](#conclusion-and-future-consideration)
 - [References](#references)
 - [For More Information](#for-more-information)
 
