@@ -9,7 +9,7 @@ For the recommender system I will use Content-based and Model Based Collaborativ
 <img align="center" width="900" height="300" src='images/MovieLens.png'>
 
 # Table of Content
-- [Business Understanding](https://github.com/jadecebeci/movie-recommender#business-understanding)
+- [Business Understanding](#business-understanding)
 - [Data Understanding](https://github.com/jadecebeci/movie-recommender#data-understanding)
 - [Data Analysis](https://github.com/jadecebeci/movie-recommender#sentiment-analysis)
 - [Recommendation Engine](https://github.com/jadecebeci/movie-recommender#recommendation-engine)
