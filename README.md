@@ -9,13 +9,13 @@ For the recommender system I will use Content-based and Model Based Collaborativ
 <img align="center" width="900" height="300" src='images/MovieLens.png'>
 
 # Table of Content
-- [Business Understanding](https://github.com/yesimcebeci/movie-recommender#business-understanding)
-- [Data Understanding](https://github.com/yesimcebeci/movie-recommender#data-understanding)
-- [Data Analysis](https://github.com/yesimcebeci/movie-recommender#sentiment-analysis)
-- [Recommendation Engine](https://github.com/yesimcebeci/movie-recommender#recommendation-engine)
-- [Conclusion and Future Consideration](https://github.com/yesimcebeci/movie-recommender#limitations-and-future-consideration)
-- [References](https://github.com/yesimcebeci/movie-recommender#references)
-- [For More Information](https://github.com/yesimcebeci/movie-recommender#for-more-information)
+- [Business Understanding](https://github.com/jadecebeci/movie-recommender#business-understanding)
+- [Data Understanding](https://github.com/jadecebeci/movie-recommender#data-understanding)
+- [Data Analysis](https://github.com/jadecebeci/movie-recommender#sentiment-analysis)
+- [Recommendation Engine](https://github.com/jadecebeci/movie-recommender#recommendation-engine)
+- [Conclusion and Future Consideration](https://github.com/jadecebeci/movie-recommender#limitations-and-future-consideration)
+- [References](https://github.com/jadecebeci/movie-recommender#references)
+- [For More Information](https://github.com/jadecebeci/movie-recommender#for-more-information)
 
 # Business Understanding 
 
